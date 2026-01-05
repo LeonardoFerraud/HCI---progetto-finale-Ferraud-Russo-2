@@ -1,0 +1,9 @@
+﻿# Ignora dati pesanti e file temporanei
+datasets/
+datasets.zip
+__MACOSX/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.env
